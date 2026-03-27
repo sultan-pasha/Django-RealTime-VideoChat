@@ -40,8 +40,6 @@ The system is designed to provide low-latency video and audio communication dire
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```bash
 Django-RealTime-VideoChat/
 ├── ontokproject/        # Global Django settings & ASGI/WSGI configuration
